@@ -17,8 +17,9 @@ Two files were provided; one of city data and one of ride data.  AFter merging t
 
 As can be seen from the chart the total rides are higher in urban city types than in rural.  Total fares are higher as well in urban city types.  But, we also observe that the number of drivers in urban city types actually exceeds the number of rides taken and average fare per driver is considerably lower in urban cities than in suburban or rural cities.  Average fare per ride and average fare per driver is lowest in urban cities and highest in rural cities and this may be related to distance travelled though we don't have data on that.  
 
-![PyBer Fare Summmary](https://github.com/hal1277/PyBer_Analysis/blob/5f85b6b0c04cd3c079ae5b8c658af9e623bdc41b/Analysis/PyBer_fare_summary.png)
-https://github.com/hal1277/PyBer_Analysis/blob/5f85b6b0c04cd3c079ae5b8c658af9e623bdc41b/Analysis/PyBer_fare_summary.png
+![PyBer Fare Summmary](https://github.com/hal1277/PyBer_Analysis_2/blob/250bcff8a31492dca81c09daf8209839f3294b0c/Analysis/PyBer_fare_summary.png)
+https://github.com/hal1277/PyBer_Analysis_2/blob/250bcff8a31492dca81c09daf8209839f3294b0c/Analysis/PyBer_fare_summary.png
+
 
 The chart summarizing total fares by city type over the time period January 1, 2019 to April 28, 2019 also shows that rural cities contribute less to total fares than urban or suburban cities.  Both urban and suburban cities showed a growth in fares from January to end of April.  All three city types showed a spike in the latter half of February.  In urban cities there was considerable variation week to week from the third week of February through to end of March.  
 
